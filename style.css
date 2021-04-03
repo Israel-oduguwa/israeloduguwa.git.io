@@ -127,7 +127,7 @@ body{
     padding-left: 0!important;
 }
 .card-img {
-    width: 70%!important;
+    width: 70%;
     border-radius: calc(.36rem - 1px)!important;
     filter: grayscale(0.7);
 }
