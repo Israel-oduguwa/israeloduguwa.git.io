@@ -126,7 +126,7 @@ body{
 .no-p-left{
     padding-left: 0!important;
 }
-.card-img {
+.card-img2 {
     width: 70%;
     border-radius: calc(.36rem - 1px)!important;
     filter: grayscale(0.7);
