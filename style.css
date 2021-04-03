@@ -30,7 +30,7 @@ body{
 }
 .color3{
     color:#d0d1d4!important;
-    font-weight: 600;
+    font-weight: 400;
 }
 .isr-btn{
     color: #ffffff;
@@ -153,9 +153,13 @@ body{
     background-color: transparent!important;
 }
 header{
-    min-height: 86vh;
+    min-height: 100vh;
     color: rgb(235, 207, 207);
 }
 footer{
     margin-top:10vh
+}
+p{
+    font-size: 0.9rem;
+    font-family: "Inter",sans-serif!important;
 }
