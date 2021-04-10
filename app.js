@@ -51,3 +51,7 @@ function myFunction() {
     })
   }
 }
+
+
+AOS.init();
+new WOW().init();
