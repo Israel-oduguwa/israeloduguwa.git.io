@@ -62,10 +62,12 @@ and create a to the top */
     /* background: black!important; */
     /* box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; */
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 100%
     /* background: white!important; */
 }
 .stickyDark{
     background: #333646!important;
+    width: 100%;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 .bg-dark{
@@ -147,13 +149,13 @@ and create a to the top */
     margin-top: 20vh;
 }
 .resume{
-    background-color: transparent;
+    /* background-color: transparent;
     border: 1px solid inherit;
     border-radius: 8px;
     padding: 0.75rem 1rem;
     /* cursor: pointer; */
-    transition: var(--transition);
-    margin-left: 15px;
+    /* transition: var(--transition);
+    margin-left: 15px; */ 
 }
 .nav-item{
     padding: 0 20px;
