@@ -3,6 +3,7 @@
     scroll-behavior: smooth;
     margin: 0;
     list-style: none;
+    overflow-x:hidden;
     /* color: black; */
 }
 /* The body */
